@@ -15,11 +15,14 @@ Team thinkingface working on the second Zindi Mentorship challenge.
 
 #### Features
 
-Feature | Description | File showing code | Inprovement over baseline
-??? | ??? | ??? | ???
+| Feature | Description | File showing code | Inprovement over baseline |
+| :---:   | :----: | :-: | :-: |
+|??? | ??? | ??? | ???|
 
 
 #### Model Scores
 
-Model | Local score (5 fold CV) | Score on Zindi
-Starter Model | ??? | ???
+|Model | Local score (5 fold CV) | Score on Zindi| Features Used |
+| :---:   | :-: | :-: | :---: |
+|Starter Model | ??? | ???| None |
+|Starter Model | ??? | ???| List of usefule features |
