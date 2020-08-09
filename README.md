@@ -34,6 +34,6 @@ And are mostly on weekdays:
 #### Model Scores
 
 |  Model | Score(No CV)| Local score (5 fold CV) | Score on Zindi| Features Used |
-| :---:   | :----: | | :----: |:--: | :----------------------------------: |
+| :---:   | :----:      | :----: |:--: | :----------------------------------: |
 |Starter Model | 758.2808335 | ??? | ???| 1157.914 | List of usefule features |
-|Starter Model | ??? | ???| ??? | ??? | ???| List of usefule features |
+|Starter Model | ??? | ???   | ??? | ??? | ???| List of usefule features |
