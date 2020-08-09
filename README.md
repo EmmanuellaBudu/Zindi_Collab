@@ -35,5 +35,5 @@ And are mostly on weekdays:
 
 |  Model | Local Score(no CV) |Local score (5 fold CV) | Score on Zindi| Features Used |
 | :---:  | :-----------------: | | :----: | :--: | :----------------------------------: |
-|Model from Emmanuella | 758.2808335 (RMSE)| ??? | 1157.914 |Dropped 'Time from Pickup to Arrival','Arrival at Destination - Day of Month','Arrival at Destination - Weekday (= 1)','Arrival at Destination - Time' and 'Precipitation' |
+|Model from Emmanuella | 758.2808335 (RMSE)| ??? | 1157.914 |Droppe |
 |Starter Model | ??? | ??? | ???| List of usefule features |
